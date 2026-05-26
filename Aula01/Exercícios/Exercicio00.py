@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exercício 01
 '''
 Crie um programa que:
@@ -17,6 +16,3 @@ idade = input("Digite sua idade: ")
 
 # Chamar a função
 print(mostrar_mensagem(nome, idade))
-67
-=======
->>>>>>> 6725cf5b2e8c112c59c82388bda1730ba2d91fea
