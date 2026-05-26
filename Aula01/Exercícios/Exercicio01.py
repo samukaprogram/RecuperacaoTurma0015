@@ -16,3 +16,4 @@ idade = input("Digite sua idade: ")
 
 # Chamar a função
 print(mostrar_mensagem(nome, idade))
+67
